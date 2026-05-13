@@ -426,7 +426,7 @@ df_deg_spe<-sweep(df_deg_spe[,-1], MARGIN = 2, STATS = colSums(df_deg_spe[,-1]),
 df_deg_spe<-df_deg_spe[,-1]
 colnames(df_deg_spe)<-unique(df_deg$gene)
 rownames(df_deg_spe)<-data.frame(table(df_deg$class))$Var1
-df_deg_spe<-df_deg_spe[,1:(ncol(df_deg_spe)-1)]
+#df_deg_spe<-df_deg_spe[,1:(ncol(df_deg_spe)-1)]
 df_deg_spe_cat<-data.frame(class=apply(df_deg_spe, MARGIN=2, which.max),
                            pct_max=sapply(df_deg_spe, max, na.rm = TRUE))
 df_deg_spe_cat$class<-rownames(df_deg_spe)[df_deg_spe_cat$class]
