@@ -1,6 +1,7 @@
 # Role of each script
 This is a collection for all scripts used for paper submitted in 2026. The function of each script with its relevant figure panels of the paper are listed as below:
 
+Compiled_manhattan_plot_v3.ipynb: Fig.1b<br>
 LD_block_construction_v8.ipynb: Fig. 1c-g(f and g were mannually made);Table S2<br>
 VEP_v2.ipynb: Table S2<br>
 Heritability_v1.ipynb: ED Fig.3<br>
@@ -14,3 +15,4 @@ CrossHuman_V2.R: Fig.6b; Table S14<br>
 Crispr_behavior_analysis_v7.ipynb: Fig.4; ED Fig.9<br>
 Human_GWAS_catalog_enrichment_v7.ipynb: Fig.6a<br>
 Motif_hGWAS_analysis_v3.ipynb: ED Fig.12; Table S22
+Selective_breeding_analysis_v3.ipynb: Fig.2c; Table S3
