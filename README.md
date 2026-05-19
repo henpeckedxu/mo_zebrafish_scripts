@@ -2,7 +2,8 @@
 This is a collection for all scripts used for paper submitted in 2026. The function of each script with its relevant figure panels of the paper are listed as below:
 
 LD_block_construction_v8.ipynb: Fig. 1c-g(f and g were mannually made);Table S2<br>
-VEP_v2.ipynb: Table S2
+VEP_v2.ipynb: Table S2<br>
+Heritability_v1.ipynb: ED Fig.3<br>
 
 cell_cluster_visualization_v1.R: Fig.3a-d, ED Fig.7b-c<br>
 DEseq2_v3.R: Fig.3b(right),e; ED Fig.7d-g; ED Fig.6f-g;Table S12<br> 
