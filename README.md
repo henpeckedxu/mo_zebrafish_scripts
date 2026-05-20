@@ -5,7 +5,7 @@ Compiled_manhattan_plot_v3.ipynb: Fig.1b<br>
 LD_block_construction_v8.ipynb: Fig. 1c-g(f and g were mannually made);Table S2<br>
 VEP_v2.ipynb: Table S2<br>
 Heritability_v1.ipynb: ED Fig.3<br>
-
+PPI_v3.ipynb: ED Fig.4d-f<br>
 cell_cluster_visualization_v1.R: Fig.3a-d, ED Fig.7b-c<br>
 DEseq2_v3.R: Fig.3b(right),e; ED Fig.7d-g; ED Fig.6f-g;Table S12<br> 
 GSEA_V3.R: Fig.3f-h; Table S13<br>
